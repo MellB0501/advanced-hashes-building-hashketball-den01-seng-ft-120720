@@ -124,5 +124,4 @@ define game_hash = {
       ]
     }
   }
-  end
 end
